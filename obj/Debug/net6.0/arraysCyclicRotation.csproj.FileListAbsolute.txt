@@ -1,0 +1,15 @@
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/bin/Debug/net6.0/arraysCyclicRotation
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/bin/Debug/net6.0/arraysCyclicRotation.deps.json
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/bin/Debug/net6.0/arraysCyclicRotation.runtimeconfig.json
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/bin/Debug/net6.0/arraysCyclicRotation.dll
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/bin/Debug/net6.0/arraysCyclicRotation.pdb
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.csproj.AssemblyReference.cache
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.AssemblyInfoInputs.cache
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.AssemblyInfo.cs
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.dll
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/refint/arraysCyclicRotation.dll
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.pdb
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/arraysCyclicRotation.genruntimeconfig.cache
+/home/user/RiderProjects/codilityTest/arraysCyclicRotation/obj/Debug/net6.0/ref/arraysCyclicRotation.dll
